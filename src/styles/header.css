@@ -1,0 +1,28 @@
+.header{
+   background-color: black;
+   color:white;
+    
+    padding: 1rem;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height:fit-content;
+   /* Your header background color */
+  z-index: 100; /* Adjust the z-index value if needed */
+  display: flex;
+  
+
+}
+img{
+    margin-top:0;
+    box-shadow: 10PX 10px 10px white;
+   
+    margin-bottom: 1rem;
+    width:5rem;
+    height: fit-content;
+    border-radius: 100%;
+}
+#h1{
+    margin-left:40%;
+    font-family: cursive;
+}

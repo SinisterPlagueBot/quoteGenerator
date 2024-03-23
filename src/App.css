@@ -1,0 +1,35 @@
+*{
+  margin:0;
+  padding:0;
+  
+  
+
+}
+.app{
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  
+
+  
+  
+  
+}
+
+.main{
+  background-image: url('/astro.jpg');
+  background-size: cover; /* Adjust as needed (e.g., contain, auto) */
+  background-position: center center; /* Adjust as needed */
+  width: 100%;
+  
+   /* Set the desired height */
+  padding: 10px;
+ 
+ 
+  
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+}
